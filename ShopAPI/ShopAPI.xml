@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShopAPI</name>
+    </assembly>
+    <members>
+        <member name="M:ShopAPI.Controllers.STUController.#ctor(ShopAPI.Models.StudentContext)">
+            <summary>
+            依赖注入
+            </summary>
+            <param name="stucontext"></param>
+        </member>
+    </members>
+</doc>
